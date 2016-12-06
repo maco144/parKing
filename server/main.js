@@ -1,2 +1,1 @@
-//import { Meteor } from 'meteor/meteor';
-//import check
+import '/imports/startup/server';
